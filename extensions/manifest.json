@@ -1,0 +1,11 @@
+{
+  "name": "null pomo",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Pomodoro timer for Google Chrome by null",
+  "icons": {},
+  "action": {
+    "default_title": "null pomo",
+    "default_popup": "./dist/index.html"
+  }
+}
